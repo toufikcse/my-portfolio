@@ -1,0 +1,1 @@
+Registered Users can ask questions and reply back to other questions asked previously.Reply of the discussion can be liked.Owner of the discussion can mark the best answer among the replies.Once done with best answer discussion is closed.Discussions are seperated and can be viewed topic wise.
